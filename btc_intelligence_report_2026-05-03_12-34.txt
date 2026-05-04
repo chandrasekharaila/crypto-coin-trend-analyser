@@ -1,0 +1,173 @@
+======================================================================
+4H MARKET INTELLIGENCE REPORT
+======================================================================
+
+STRUCTURAL CONTEXT:
+- Trend: Bullish
+- Structure Strength: 0.201
+- Slope Score: 0.0
+
+LIQUIDITY CONTEXT:
+- Upside Strength: 16.79
+- Downside Strength: 21.035
+- Imbalance Ratio: 0.798
+- Bias: Downside Liquidity Heavy
+
+VOLATILITY STATE:
+- Regime: Normal
+- ATR Ratio: 0.803
+- BB Width Ratio: 1.543
+
+ZONE PROBABILITY ESTIMATE:
+- Rejection Probability: 51.5%
+- Breakout Probability: 48.5%
+- Confidence: Low
+
+LIKELY LIQUIDITY PATH:
+- Direction: Likely Downside Sweep First
+- Confidence: Low
+
+TODAY'S LIQUIDITY MAP:
+- Primary Target: 77865.63 (sell_liquidity) [Score: 0.981]
+- Secondary Target: 77696.48 (buy_liquidity) [Score: 0.943]
+- Map Confidence: High
+
+LIQUIDITY GRAVITY:
+- Strongest Pull Level: 77865.63 (sell_liquidity)
+- Gravity Strength: 0.003306
+
+FINAL CONTEXTUAL BIAS:
+- Market likely seeks liquidity below before continuation.
+======================================================================
+
+======================================================================
+1H MARKET INTELLIGENCE REPORT
+======================================================================
+
+STRUCTURAL CONTEXT:
+- Trend: Range
+- Structure Strength: 0.189
+- Slope Score: 0.006
+
+LIQUIDITY CONTEXT:
+- Upside Strength: 6.413
+- Downside Strength: 42.654
+- Imbalance Ratio: 0.15
+- Bias: Downside Liquidity Heavy
+
+VOLATILITY STATE:
+- Regime: Compression
+- ATR Ratio: 0.73
+- BB Width Ratio: 0.562
+
+ZONE PROBABILITY ESTIMATE:
+- Rejection Probability: 66.82%
+- Breakout Probability: 33.18%
+- Confidence: Moderate
+
+LIKELY LIQUIDITY PATH:
+- Direction: Likely Downside Sweep First
+- Confidence: High
+
+TODAY'S LIQUIDITY MAP:
+- Primary Target: 78035.28 (sell_liquidity) [Score: 0.984]
+- Secondary Target: 77796.75 (sell_liquidity) [Score: 0.925]
+- Map Confidence: High
+
+LIQUIDITY GRAVITY:
+- Strongest Pull Level: 78318.5 (buy_liquidity)
+- Gravity Strength: 0.010993
+
+FINAL CONTEXTUAL BIAS:
+- Market likely seeks liquidity below before continuation.
+======================================================================
+
+======================================================================
+15M MARKET INTELLIGENCE REPORT
+======================================================================
+
+STRUCTURAL CONTEXT:
+- Trend: Range
+- Structure Strength: 0.229
+- Slope Score: 0.006
+
+LIQUIDITY CONTEXT:
+- Upside Strength: 13.307
+- Downside Strength: 29.14
+- Imbalance Ratio: 0.457
+- Bias: Downside Liquidity Heavy
+
+VOLATILITY STATE:
+- Regime: Compression
+- ATR Ratio: 0.754
+- BB Width Ratio: 0.391
+
+ZONE PROBABILITY ESTIMATE:
+- Rejection Probability: 75.49%
+- Breakout Probability: 24.51%
+- Confidence: High
+
+LIKELY LIQUIDITY PATH:
+- Direction: Likely Downside Sweep First
+- Confidence: Moderate
+
+TODAY'S LIQUIDITY MAP:
+- Primary Target: 78021.35 (sell_liquidity) [Score: 0.99]
+- Secondary Target: 78209.79 (buy_liquidity) [Score: 0.976]
+- Map Confidence: High
+
+LIQUIDITY GRAVITY:
+- Strongest Pull Level: 78272.0 (buy_liquidity)
+- Gravity Strength: 0.032609
+
+FINAL CONTEXTUAL BIAS:
+- Market likely seeks liquidity below before continuation.
+======================================================================
+
+======================================================================
+5M MARKET INTELLIGENCE REPORT
+======================================================================
+
+STRUCTURAL CONTEXT:
+- Trend: Bullish
+- Structure Strength: 0.58
+- Slope Score: 0.015
+
+LIQUIDITY CONTEXT:
+- Upside Strength: 15.694
+- Downside Strength: 36.823
+- Imbalance Ratio: 0.426
+- Bias: Downside Liquidity Heavy
+
+VOLATILITY STATE:
+- Regime: Normal
+- ATR Ratio: 1.111
+- BB Width Ratio: 1.405
+
+ZONE PROBABILITY ESTIMATE:
+- Rejection Probability: 86.0%
+- Breakout Probability: 14.0%
+- Confidence: High
+
+LIKELY LIQUIDITY PATH:
+- Direction: Likely Downside Sweep First
+- Confidence: Moderate
+
+TODAY'S LIQUIDITY MAP:
+- Primary Target: 78079.0 (sell_liquidity) [Score: 0.987]
+- Secondary Target: 78027.0 (sell_liquidity) [Score: 0.978]
+- Map Confidence: High
+
+LIQUIDITY GRAVITY:
+- Strongest Pull Level: 78225.26 (sell_liquidity)
+- Gravity Strength: 0.040607
+
+FINAL CONTEXTUAL BIAS:
+- Market likely seeks liquidity below before continuation.
+======================================================================
+
+
+======================================================================
+GLOBAL MULTI-TIMEFRAME VIEW
+======================================================================
+{'global_trend': 'Bullish (Pullback Phase)', 'global_liquidity_bias': 'Downside Liquidity Heavy', 'global_rejection_probability': np.float64(64.34), 'global_path': 'Likely Downside Sweep First'}
