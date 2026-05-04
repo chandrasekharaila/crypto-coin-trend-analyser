@@ -26,9 +26,18 @@ A multi-layer market analysis engine that combines structure, liquidity, and pro
 - **L20 – Smart Money**: Detects institutional activity  
 - **L21 – Liquidity Gravity**: Models price attraction toward liquidity  
 
+## 📄 Output
+
+The engine generates:
+
+- **Console Insights**: Structure, liquidity bias, volatility, probability, smart money signals  
+- **Visual Charts**: Zones, liquidity levels, projections, heatmaps  
+- **Text Reports**: Per-timeframe summaries + global multi-timeframe view  
+- **Predictions**: Expected price path, targets, and probabilistic scenarios  
+
 ## ⚙️ Configuration
 
-Change the coin by updating the symbol in config/settings.py:
+Change the coin by updating the symbol in config/setting.py:
 
 ```python
 SYMBOL = "BTC/USDT"
